@@ -1,0 +1,133 @@
+
+body {
+margin: 0;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+
+
+.con {
+width: 1200px; 
+margin: auto;
+margin-top: 90px; 
+display: flex;
+gap: 6em;
+
+
+}
+
+.right-col {
+
+align-items: center;
+align-content: center;
+text-align: center;
+
+}
+
+.keepit1 {
+padding: 10px;
+margin-top: 90px;
+
+}
+
+
+
+
+
+.report{
+text-align: center;
+width: 300px;
+color: gray;
+
+margin: 16px auto;
+
+}
+
+
+
+.c-here{
+
+    width: 1200;
+    margin: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+.facebook{
+color: #003A53;
+text-align: center;
+text-decoration: none;
+font-size: 17px;
+
+}
+
+
+.sign-up{
+
+color: #00A82D;
+    text-decoration: none;
+}
+
+
+
+.sided {
+
+    display: inline-block;
+}
+
+
+.sboxs {
+
+    width: 80%;
+    padding: 11px;
+
+    color: black;
+    background-color: #fcfdfd  ;
+    border-color: #eefaf1;
+    outline-color: #0fc74094;
+    border-style: groove;
+    border-radius: 5px;
+    transition: 0.4s;
+}
+
+
+
+.forom {
+
+    padding: 3px;
+
+}
+
+
+
+
+
+
+      .btn {
+        background-color: #00A82D;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-family: Open Sans;
+        font-size: 18px;
+        font-weight: 500;
+        letter-spacing: 0em;
+        text-align: center;
+        padding: 11px 110px;
+        border-radius: 16.57px;
+        color: white;
+        transition: 0.4s;
+      }
+
+      .btn:hover {
+
+        background-color: #00b931fd;
+
+      }
