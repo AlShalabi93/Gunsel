@@ -113,7 +113,7 @@ color: #00A82D;
         background-color: #00A82D;
         color: white;
         border: none;
-        border-radius: 4px;
+       
         cursor: pointer;
         font-family: Open Sans;
         font-size: 18px;
@@ -131,3 +131,14 @@ color: #00A82D;
         background-color: #00b931fd;
 
       }
+
+
+/* .flexboxz {
+        display: flex;
+        align-items: center;
+align-content: center;
+text-align: center;
+justify-content: space-around;
+margin-top: 20px;
+}
+*/
