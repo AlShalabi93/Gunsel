@@ -16,7 +16,7 @@ width: 1200px;
 margin: auto;
 margin-top: 90px; 
 display: flex;
-gap: 6em;
+gap: 5em;
 
 
 }
@@ -31,7 +31,7 @@ text-align: center;
 
 .keepit1 {
 padding: 10px;
-margin-top: 90px;
+margin-top: 100px;
 
 }
 
@@ -120,10 +120,11 @@ color: #00A82D;
         font-weight: 500;
         letter-spacing: 0em;
         text-align: center;
-        padding: 11px 110px;
-        border-radius: 16.57px;
+        padding: 10px 115px;
+        border-radius: 10px;
         color: white;
         transition: 0.4s;
+        margin-top: 5px;
       }
 
       .btn:hover {
