@@ -12,11 +12,13 @@ UI/UX was created by Shalabinote
 Head over to the "Check how do we save our files" section on the homepage,
 And just so you know, our developer is still scratching their head, trying to decode the magic behind bringing the data back. 😂🤣.
 
-# Big green dot (Clickalbe) pressing on an area inside an image (green dot is part of the image ), it send the user to a page that is designed by me (using a platform).
+# Big green dot (Clickalbe) 
+pressing on an area inside an image (green dot is part of the image ), it send the user to a page that is designed by me (using a platform).
 
 
-# IMPORTANT NOTE : THE APPLICATION IS ON Shalabinote, My rich text editor is DRAFT JS integration (its using react ) and harder to implement .
-# IMPORTANT NOTE : Quill js and draft js, Are exist , However the main application is on edithtml.html (is vanilla javascript ).
+# IMPORTANT NOTE : 
+1. THE APPLICATION IS ON Shalabinote, My rich text editor is DRAFT JS integration (its using react ) and harder to implement .
+2. Quill js and draft js, Are exist , However the main application is on edithtml.html (is vanilla javascript ).
 
 
 # User Documentation:
