@@ -6,7 +6,7 @@ const path = require("path");
 const app = express() ;
 
 const mongoose = require("mongoose") ;
-mongoose.connect("mongodb+srv://Shalabi:Eyad1234@shalabi.mpuql2k.mongodb.net/?retryWrites=true&w=majority") 
+mongoose.connect("mongodb://localhost:27017") 
 
 .then (() => {
 
