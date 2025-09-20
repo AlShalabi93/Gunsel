@@ -22,8 +22,8 @@ pressing on an area inside an image (green dot is part of the image ), it send t
 
 
 # User Documentation:
-Getting Started
-Starting by applying "Node indexjs.js" in the terminal ( inside of Shalabinote folder)
+After cloning 
+Starting by applying "Cd Shalabinote" --> "npm install" --> "node indexjs.js" in the terminal 
 using the brwoser URL http://localhost:4000/
 
 
